@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Woobly: Build. Innovate. Reward.</title>
+        <title>Wooblay: Build. Innovate. Reward.</title>
         <meta
           name="description"
           content="A next-generation platform for on-chain tasks, transparent collaboration, and real innovation."

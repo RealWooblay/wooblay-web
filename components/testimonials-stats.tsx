@@ -5,16 +5,16 @@ import { useState, useEffect } from "react"
 
 const testimonials = [
   {
-    quote: "Woobly transformed our remote team's productivity.",
-    author: "Jane Doe, CTO",
+    quote: "Wooblay transformed our remote team's productivity.",
+    author: "Amy, Project Manager",
   },
   {
-    quote: "The transparency in task rewards is game-changing.",
-    author: "John Smith, Open Source Contributor",
+    quote: "It's awesome to get stake in projects I contribute too.",
+    author: "John, Open Source Contributor",
   },
   {
-    quote: "Wooblay helped us scale faster than ever, transforming our workflow and team engagement.",
-    author: "Alice Johnson, Founder",
+    quote: "Wooblay helped me find my startup partners and track our technical contributions.",
+    author: "Quinn, Founder",
   },
 ]
 

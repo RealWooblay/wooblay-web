@@ -48,7 +48,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Woobly. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Wooblay. All rights reserved.</p>
         </div>
       </div>
       <div className="fixed bottom-4 right-4 z-50">
