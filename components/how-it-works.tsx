@@ -7,7 +7,7 @@ const steps = [
   {
     icon: TrendingUp,
     title: "List Task",
-    description: "Define and post your project needs",
+    description: "Define & post your project needs",
   },
   {
     icon: Users,
