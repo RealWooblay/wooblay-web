@@ -33,7 +33,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            Woobly: Build. Innovate. Reward.
+            Wooblay: Build. Innovate. Reward.
           </motion.h1>
           <motion.p
             className="text-xl md:text-2xl mb-8 max-w-2xl"

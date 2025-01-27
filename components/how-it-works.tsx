@@ -17,7 +17,7 @@ const steps = [
   {
     icon: Zap,
     title: "Execute",
-    description: "Collaborate and distribute compensation instantly.",
+    description: "Collaborate & distribute compensation instantly.",
   },
 ]
 
